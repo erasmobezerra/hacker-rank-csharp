@@ -1,0 +1,15 @@
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\bin\Debug\net8.0\HackerRank.exe
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\bin\Debug\net8.0\HackerRank.deps.json
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\bin\Debug\net8.0\HackerRank.runtimeconfig.json
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\bin\Debug\net8.0\HackerRank.dll
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\bin\Debug\net8.0\HackerRank.pdb
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.AssemblyInfo.cs
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.sourcelink.json
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.dll
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\refint\HackerRank.dll
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.pdb
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\HackerRank.genruntimeconfig.cache
+C:\Users\Erasmo\Documents\Erasmo\tecnologia\workspace\Introduction-to-C#\HackerRank\obj\Debug\net8.0\ref\HackerRank.dll
