@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj": {}
+    "c:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj": {
+    "c:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj",
+        "projectUniqueName": "c:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj",
         "projectName": "HackerRank",
-        "projectPath": "C:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj",
+        "projectPath": "c:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\HackerRank.csproj",
         "packagesPath": "C:\\Users\\Erasmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\obj\\",
+        "outputPath": "c:\\Users\\Erasmo\\Documents\\Erasmo\\tecnologia\\workspace\\HackerRank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
