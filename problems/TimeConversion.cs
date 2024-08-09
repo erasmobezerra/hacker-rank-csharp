@@ -14,7 +14,6 @@ using System;
 
 class Result
 {
-
     public static string timeConversion(string s)
     {
         string inputTimeformat = "hh:mm:sstt";
