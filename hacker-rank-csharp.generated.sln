@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\Came
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongPassword", "StrongPassword\StrongPassword.csproj", "{DCA756E1-3642-40DC-8DB7-C4A475493F67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{EA3D4CCC-1D4E-4704-B612-113759AADC27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{DCA756E1-3642-40DC-8DB7-C4A475493F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA756E1-3642-40DC-8DB7-C4A475493F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA756E1-3642-40DC-8DB7-C4A475493F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3D4CCC-1D4E-4704-B612-113759AADC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3D4CCC-1D4E-4704-B612-113759AADC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3D4CCC-1D4E-4704-B612-113759AADC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3D4CCC-1D4E-4704-B612-113759AADC27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
