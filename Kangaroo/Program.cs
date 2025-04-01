@@ -27,27 +27,19 @@ class Result
      */
 
     public static string kangaroo(int x1, int v1, int x2, int v2)
-    {
-        // Receber os argumentos 
-        var kangarooPosition1 = x1;
-        var kangarooPosition2 = x2;
-        var kangarooJump1 = v1;
-        var kangarooJump2 = v2;
-        var kangarooMeet = " ";
-        
-        // Em laço for, somar os valores dos saltos de cada canguru até que os dois coincidam. Limite de dez mil tentativas 
+    {      
+        var kangarooMeet = " ";        
         for (var index = 0; index < 10000; index++)
         {
-            if (x1 < kangarooPosition2 && kangarooJump1 < kangarooJump2)
+            if (x1 < x2 && v1 < v2)
             {
-                // Canguru1 nunca poderá alcançar Canguru2 
                 kangarooMeet = "NO"; break;
             }
             else
             {
-                x1 += kangarooJump1;
-                kangarooPosition2 += kangarooJump2;
-                kangarooMeet = (kangarooPosition1 == kangarooPosition2) ? "YES" : "NO";
+                x1 += v1;
+                x2 += v2;
+                kangarooMeet = (x1 == x2) ? "YES" : "NO";
                 if (kangarooMeet == "YES") break;
             }
         }
